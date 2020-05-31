@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "588632232686",
+    "firebase_url": "https://mainor-quiz.firebaseio.com",
+    "project_id": "mainor-quiz",
+    "storage_bucket": "mainor-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588632232686:android:1cb1d8558efe19325399ff",
+        "android_client_info": {
+          "package_name": "com.example.mainorquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588632232686-lhepvut1hn33l6u74hs7ff6qg37b0tpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mainorquiz",
+            "certificate_hash": "727ea0a1d0e6a2c205e0ae2cbb00f6392e16285f"
+          }
+        },
+        {
+          "client_id": "588632232686-cvgrtp5eul2fe9iji71prfs0ji6od5ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCywu4LQX4pjjmpXg1wH4TbGSg4QqHuCIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588632232686-cvgrtp5eul2fe9iji71prfs0ji6od5ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

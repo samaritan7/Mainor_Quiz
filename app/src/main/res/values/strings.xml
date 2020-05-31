@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MainorQuiz</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="question_dmitri">Dmitri Borohhov is Mobile Applications lecturer.</string>
+    <string name= "correct_answer">That\'s correct</string>
+    <string name= "wrong_answer">That\'s incorrect</string>
+    <string name="question_inna">Inna Svartsman is head of SE curriculum.</string>
+    <string name="question_anton">Anton Vedeshin is web applications lecturer </string>
+    <string name="question_curriculum">The two specializations IT curriculum has:
+        \n \t <b>Software development</b> \n    \t <b>Entrepreneuership</b>.</string>
+    <string name="question_plagiarism">Plagiarism means:
+    \n  \t <b>Using someone elses work without referencing</b>.</string>
+    <string name="question_mainor">Mainor was founded in Rakvere in 1992.</string>
+    <string name="question_tuition">Annual tuition for SE curriculum is 5000€.</string>
+    <string name="question_international">EAUS has lots of international students.</string>
+    <string name="next_text">next</string>
+
+
+</resources>
